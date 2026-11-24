@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi,👋
 
-<!--
-**sidranooorkhan/sidranooorkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Business Systems undergraduate interested in Data Science, Analytics, and Machine Learning.
 
-Here are some ideas to get you started:
+### Currently Learning
+- Python
+- Data Structures & Algorithms
+- Data Science and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **RealAnalytics** – Customer Segmentation and Revenue Analysis using Python and Machine Learning.
+
+### Tech Stack
+Python | C++ | C | Pandas | NumPy | Scikit-learn
+
