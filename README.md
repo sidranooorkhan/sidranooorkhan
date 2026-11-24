@@ -1,15 +1,22 @@
-# Hi,👋
+# Hey,👋
 
-I'm a Computer Science and Business Systems undergraduate interested in Data Science, Analytics, and Machine Learning.
+I'm a Computer Science and Business Systems undergraduate.
 
-### Currently Learning
+I'm interested in Data Science, Analytics, and Machine Learning. I enjoy exploring how data can be used to understand patterns and solve real-world problems.
+
+### Currently Learning:
 - Python
 - Data Structures & Algorithms
 - Data Science and Machine Learning
 
-### Projects
+### Technologies:
+- **Languages:** Python, C, C++
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+### Projects:
 - **RealAnalytics** – Customer Segmentation and Revenue Analysis using Python and Machine Learning.
 
-### Tech Stack
-Python | C++ | C | Pandas | NumPy | Scikit-learn
-
+### Goals:
+- Build meaningful projects.
+- Strengthen my problem-solving skills.
+- Explore opportunities in Data Science and AI/ML.
